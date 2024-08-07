@@ -1,0 +1,12 @@
+create a Project Using Express Js,
+Install the packege like nodemon,type script and cors and dot env.
+setup the front end,
+instll the shadCn 
+ setup the database...
+ using prisma,
+ create the model User,
+ migrate the model
+ add the configFolder in the /src dictionary
+ 
+
+ add the concurency usng npm cuncurrency and change the packegae .jso file
